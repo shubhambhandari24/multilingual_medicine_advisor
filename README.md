@@ -19,7 +19,7 @@ This is an AI-powered, multilingual medicine chatbot built with **Python** and *
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<shubhambhandari24>/<multilingual_medicine_advisor>.git
+cd <multilingual_medicine_advisor>
 pip install -r requirements.txt
 streamlit run app.py
