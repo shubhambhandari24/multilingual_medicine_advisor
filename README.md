@@ -1,11 +1,12 @@
 # 💊 Multilingual Medicine Advisor Chatbot
 
 This is an AI-powered, multilingual medicine chatbot built with **Python** and **Streamlit**, integrated with the **OpenFDA API** for real-time Simple medicine suggestions based on user symptoms.
+"This Chatbot Is For Knowledge Purpose Only"
 
 ## 🌟 Features
 
 - 🌐 Multilingual support
-- 🎤 Voice input (text output only)
+-  Text input (text output only)
 - 🤖 Symptom-based medicine suggestions
 - 🔎 Real-time data using OpenFDA API
 - 💬 Interactive Q&A about symptoms
